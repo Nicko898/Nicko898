@@ -60,7 +60,7 @@ I am open to new opportunities to develop projects, collaborate with teams, or l
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,bash,linux,ai,ps,arduino,notion,figma" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,bash,linux,ai,ps,arduino,notion,figma,wordpress," />
   </a>
 </p>
 <br>
