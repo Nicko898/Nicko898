@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Yoel Lazarte | Frontend Developer ✨ </h1> 
 
-<h2>about me 😃</h2>
 <p align="left">
+  
 🎓 **Advanced student** in Web Design and Development, currently completing my thesis to graduate with a Technical. My goal is to apply the knowledge I have acquired to real-world projects while continuously improving my skills in web development.
 
 💻 **Projects and continuous learning:**  I have worked on projects using modern technologies like **Vue.js, Laravel, and Firebase**, focusing on building functional and scalable solutions.
