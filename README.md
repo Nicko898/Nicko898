@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Yoel Lazarte | Frontend Developer ✨ </h1> 
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Yoel Lazarte | Frontend Developer</h1> 
 
 <p align="left">
   
@@ -24,7 +24,12 @@ Here are some ideas to get you started:
 💡 **Looking for collaboration?**  
 I am open to new opportunities to develop projects, collaborate with teams, or learn alongside professionals in the field. Always ready for new challenges!
 
-📫 Contact: **joelnicolaslazarte@hotmail.com**
+📫 **Contact:**
+
+<a href = "mailto:joelnicolaslazarte@hotmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+<a href="https://linkedin.com/in/yoel-lazarte" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+
+
 </p>
 <br>
 <!------------------------------------->
