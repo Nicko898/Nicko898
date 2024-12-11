@@ -72,7 +72,9 @@ I am open to new opportunities to develop projects, collaborate with teams, or l
 
 <!------------------------------------->
 
-
+## Github Stats ⚡
+<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Nicko898&theme=transparent&count_private=true&hide_border=true&line_height=20)</a>
+<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicko898&layout=compact&theme=transparent&count_private=true&hide_border=true)</a>
 
 <!------------------------------------->
 
